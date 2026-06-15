@@ -20,7 +20,7 @@ variable "components" {
         shipping = {
             rule_priority = 40
         }
-        payments = {
+        payment = {
             rule_priority = 50
         }
         frontend = {
